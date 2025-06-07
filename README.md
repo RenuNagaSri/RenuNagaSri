@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @RenuNagaSri
-- 👀 I’m interested in learning technical skills
-- 🌱 I’m currently learning Python programming 
-- 💞️ I’m looking to collaborate on google for future internshhip 
+- 👋 Hi,I’m @RenuNagaSri.
+- 👀 Tech enthusiast.
+- 🌱 I’m currently pursuing my b.tech in SAHE University.
   
   
 
